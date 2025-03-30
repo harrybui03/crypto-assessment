@@ -1,0 +1,17 @@
+/* CustomTooltip.module.css */
+.tooltipContainer {
+    background: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tooltipDate {
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.tooltipPrice {
+    margin-top: 5px;
+}
