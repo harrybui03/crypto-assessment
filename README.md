@@ -21,7 +21,7 @@ This is a simple cryptocurrency price tracker application that allows users to c
 
 ## How to Access and Test the Deployed Application
 
-1. Visit the deployed application link: https://crypto-chart-web.onrender.com/
+1. Visit the deployed application link: https://crypto-assessment.onrender.com/
 2. Type the name or symbol of the cryptocurrency you want to see
 3. View the current price and historical price chart
 
