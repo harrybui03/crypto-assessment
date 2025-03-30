@@ -37,7 +37,7 @@ This is a simple cryptocurrency price tracker application that allows users to c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/harrybui03/crypto-chart.git
+git clone https://github.com/harrybui03/crypto-assessment.git
 ```
 
 #### Redis Setup with Docker
