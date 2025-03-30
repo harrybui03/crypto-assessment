@@ -1,5 +1,5 @@
 import express from "express";
-import { getPriceHandler, getHistoryHandler } from "../../src/controller/controller";
+import { getPriceHandler, getHistoryHandler } from '../controller/controller';
 const router = express.Router();
 
 router.get("/price/:symbol", getPriceHandler);
